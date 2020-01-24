@@ -73,4 +73,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Shootest/Saved/Logs/Shootest.log
-*.log
+**/*.log
