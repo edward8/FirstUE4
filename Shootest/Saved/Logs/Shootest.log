@@ -913,3 +913,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.24-18.53.58:066][727]LogWindows: Warning: URL: C:/Users/riley/AppData/Local/GitHubDesktop version
 [2020.01.24-18.53.58:066][727]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
 [2020.01.24-18.54.13:147][867]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2020.01.24-18.59.16:468][869]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2020.01.24-19.01.29:543][506]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2020.01.24-19.01.55:737][849]SourceControl: Source control is disabled
+[2020.01.24-19.01.55:737][849]LogSlate: Window 'Source Control Login' being destroyed
+[2020.01.24-19.02.03:688][205]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2020.01.24-19.02.46:390][697]LogSlate: Window 'Source Control Login' being destroyed
+[2020.01.24-19.04.05:050][ 88]LogSlate: Window 'Source Control Login' being destroyed
+[2020.01.24-19.04.08:688][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.24-19.04.10:000][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.24-19.04.19:286][804]SourceControl: fatal: D:/UE_4.24/Engine/Content: 'D:/UE_4.24/Engine/Content' is outside repository
+[2020.01.24-19.04.19:472][804]EditorErrors: Warning: No assets to check in!
+[2020.01.24-19.04.32:004][291]LogSlate: Took 0.000618 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.24-19.04.32:034][291]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.01.24-19.04.32:482][291]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 121 classes and 0 folders.
+[2020.01.24-19.04.34:411][291]LogSlate: Took 0.000511 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.24-19.04.34:881][292]LogSlate: Took 0.011590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.24-19.04.36:175][319]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2020.01.24-19.05.17:114][358]LogSlate: Window 'Source Control Login' being destroyed
+[2020.01.24-19.05.32:760][  2]LogSlate: Window 'Source Control Login' being destroyed
+[2020.01.24-19.05.47:201][635]LogSlate: Window 'Source Control Login' being destroyed
+[2020.01.24-19.06.26:832][360]LogSlate: Window 'Source Control Login' being destroyed
