@@ -963,3 +963,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.24-19.20.42:074][688]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2020.01.24-19.20.42:074][688]SourceControl:  create mode 100644 Shootest/Content/dummy.uasset
 [2020.01.24-19.20.42:087][688]SourceControl: Commited [master 6d708e5] eat dick.
+[2020.01.24-19.26.48:679][416]SourceControl: fatal: D:/UE_4.24/Engine/Content: 'D:/UE_4.24/Engine/Content' is outside repository
+[2020.01.24-19.26.48:809][416]EditorErrors: Warning: No assets to check in!
