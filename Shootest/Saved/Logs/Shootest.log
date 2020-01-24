@@ -934,3 +934,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.24-19.05.32:760][  2]LogSlate: Window 'Source Control Login' being destroyed
 [2020.01.24-19.05.47:201][635]LogSlate: Window 'Source Control Login' being destroyed
 [2020.01.24-19.06.26:832][360]LogSlate: Window 'Source Control Login' being destroyed
+[2020.01.24-19.11.18:738][504]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-19.11.18:738][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-19.14.08:395][433]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.24-19.14.24:542][123]LogUObjectHash: Compacting FUObjectHashTables data took  15.24ms
+[2020.01.24-19.14.26:281][123]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.24-19.14.26:518][123]LogUObjectHash: Compacting FUObjectHashTables data took  12.65ms
+[2020.01.24-19.16.50:517][969]LogUProjectInfo: Found projects:
+[2020.01.24-19.16.50:523][969]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.01.24-19.16.50:523][969]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.01.24-19.16.59:385][321]LogSlate: Window 'Open Project' being destroyed
+[2020.01.24-19.17.11:364][904]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.01.24-19.17.11:365][904]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.01.24-19.17.31:616][ 42]LogSlate: Window 'Open Project' being destroyed
+[2020.01.24-19.17.37:292][336]SourceControl: fatal: D:/UE_4.24/Engine/Content: 'D:/UE_4.24/Engine/Content' is outside repository
+[2020.01.24-19.17.37:388][336]EditorErrors: Warning: No assets to check in!
+[2020.01.24-19.20.14:931][856]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.24-19.20.27:711][388]SourceControl: fatal: D:/UE_4.24/Engine/Content: 'D:/UE_4.24/Engine/Content' is outside repository
+[2020.01.24-19.20.27:837][388]EditorErrors: Warning: No assets to check in!
+[2020.01.24-19.20.32:369][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/dummy" FILE="../../../../Documents/GitHub/FirstUE4/Shootest/Content/dummy.uasset" SILENT=true
+[2020.01.24-19.20.32:379][586]LogSavePackage: Moving '../../../../Documents/GitHub/FirstUE4/Shootest/Saved/dummy81D64A5D45242ADFCC25DDAF03B07030.tmp' to '../../../../Documents/GitHub/FirstUE4/Shootest/Content/dummy.uasset'
+[2020.01.24-19.20.32:859][586]AssetCheck: New page: Asset Save: dummy
+[2020.01.24-19.20.32:859][586]LogContentValidation: Display: Validating Blueprint /Game/dummy.dummy
+[2020.01.24-19.20.35:285][688]SourceControl: fatal: D:/UE_4.24/Engine/Content: 'D:/UE_4.24/Engine/Content' is outside repository
+[2020.01.24-19.20.41:505][688]LogSlate: Window 'Submit Files' being destroyed
+[2020.01.24-19.20.42:000][688]LogSourceControl: commit successful: [master 6d708e5] eat dick
+[2020.01.24-19.20.42:074][688]SourceControl: [master 6d708e5] eat dick
+[2020.01.24-19.20.42:074][688]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2020.01.24-19.20.42:074][688]SourceControl:  create mode 100644 Shootest/Content/dummy.uasset
+[2020.01.24-19.20.42:087][688]SourceControl: Commited [master 6d708e5] eat dick.
